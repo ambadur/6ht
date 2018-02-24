@@ -25,9 +25,7 @@ bgbgbgb
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 <title>Просмотр изображения Txtmg.jpg</title></head>
 <body>
-<script type="text/javascript">
-	var blocked_message = 'Изображение заблокировано. Распространение наркотических средств. Загружено: 2018.02.23 20:49:51 (МСК). IP: 109.206.134.72';
-	if (blocked_message == '(none)' && '(none)' == '(none)')
+		if (blocked_message == '(none)' && '(none)' == '(none)')
 		window.location = "http://mybb.ru/";
 </script>
 <div id="wrap">
